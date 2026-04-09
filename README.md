@@ -1,4 +1,4 @@
-📂 Arquitectura del Proyecto
+ Arquitectura del Proyecto
 El proyecto consta de un backend monolítico y dos scripts que representan diferentes estrategias de ataque:
 
 main.py: Es el servidor web. Implementa un CRUD básico para la gestión de usuarios (Crear, Leer, Actualizar, Eliminar) y un endpoint de /login. Al iniciar, genera automáticamente una base de datos local (users.db) con tres usuarios predeterminados:
