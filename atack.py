@@ -5,7 +5,7 @@ import time
 
 URL = "http://127.0.0.1:8000/login"
 USERNAME = "admin"
-ALFABETO = string.ascii_lowercase + string.digits
+ALFABETO = "abc123tor"
 MAX_LEN = 3 
 
 def ataque_fuerza_bruta():
